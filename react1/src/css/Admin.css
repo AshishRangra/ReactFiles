@@ -1,0 +1,107 @@
+.admin-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.admin-form {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.submit-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+.search-input,
+.search-button {
+  margin-left: 10px;
+}
+
+.delete-button,
+.update-button {
+  padding: 5px 10px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  background-color: #dc3545;
+  color: #fff;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.delete-button:hover,
+.update-button:hover {
+  background-color: #c82333;
+}
+
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.admin-table th,
+.admin-table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.admin-table th {
+  background-color: #f8f9fa;
+  font-weight: bold;
+  text-align: left;
+}.search-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #28a745; /* Green color */
+  color: #fff;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background-color: #218838; /* Darker green color on hover */
+}
+
+.search-label {
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.search-input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Optional: Style placeholder text */
+.search-input::placeholder {
+  color: #999;
+}

@@ -1,0 +1,81 @@
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": "2",
+      "title": "reprehenderit est deserunt velit ipsam"
+    },
+    {
+      "albumId": 1,
+      "id": "3",
+      "title": "officia porro iure quia iusto qui ipsa ut modi"
+    },
+    {
+      "id": "e7bc",
+      "albumId": "",
+      "title": ""
+    },
+    {
+      "id": "92ee",
+      "albumId": "",
+      "title": ""
+    },
+    {
+      "id": "01ab",
+      "albumId": "32",
+      "title": "Ashish RAngra"
+    },
+    {
+      "id": "40de",
+      "albumId": "3",
+      "title": "dsfsd"
+    },
+    {
+      "id": "5ef1",
+      "albumId": "333",
+      "title": "dfadsfdsa"
+    },
+    {
+      "id": "6400",
+      "albumId": "333",
+      "title": "dfadsfdsa"
+    },
+    {
+      "id": "7283",
+      "albumId": "333",
+      "title": "dfadsfdsa"
+    },
+    {
+      "id": "30c4",
+      "albumId": "333",
+      "title": "dfadsfdsa"
+    },
+    {
+      "id": "739c",
+      "albumId": "333",
+      "title": "dfadsfdsa"
+    },
+    {
+      "id": "e0b0",
+      "albumId": "666666",
+      "title": "new entry"
+    }
+  ],
+  "user": [
+    {
+      "albumId": 1,
+      "id": "2",
+      "title": "reprehenderit est deserunt velit ipsam"
+    },
+    {
+      "albumId": 1,
+      "id": "3",
+      "title": "officia porro iure quia iusto qui ipsa ut modi"
+    },
+    {
+      "id": "7ec4",
+      "albumId": "666666",
+      "title": "new entry"
+    }
+  ]
+}

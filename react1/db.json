@@ -1,0 +1,53 @@
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": "2",
+      "title": "reprehenderit est deserunt velit ipsam"
+    },
+    {
+      "albumId": 1,
+      "id": "3",
+      "title": "officia porro iure quia iusto qui ipsa ut modi"
+    },
+    {
+      "id": "e7bc",
+      "albumId": "",
+      "title": ""
+    },
+    {
+      "id": "92ee",
+      "albumId": "",
+      "title": ""
+    },
+    {
+      "id": "01ab",
+      "albumId": "32",
+      "title": "Ashish RAngra"
+    },
+    {
+      "id": "40de",
+      "albumId": "3",
+      "title": "dsfsd"
+    },
+    {
+      "id": "5ef1",
+      "albumId": "333",
+      "name": "Ashiscsh",
+      "title": "dfadsfdsa"
+    },
+    {
+      "id": "30c4",
+      "albumId": "333",
+      "name": "Ashisfdah",
+      "title": "dfadsfdsa"
+    }
+  ],
+  "user": [
+    {
+      "id": "b92c",
+      "albumId": "3424",
+      "title": "xgfxjgf"
+    }
+  ]
+}
